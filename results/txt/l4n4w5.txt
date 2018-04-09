@@ -1,0 +1,7649 @@
+
+serial_no =
+
+serial no 1
+
+
+one_dimentional_dop_code =
+
+     1     1     1     1    12
+
+
+one_dimentional_binary_code =
+
+     1     1     1     1     1     0     0     0     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,0'1,1'1,3'0]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     1     0     0     0
+     1     0     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 2
+
+
+one_dimentional_dop_code =
+
+     1     1     1     2    11
+
+
+one_dimentional_binary_code =
+
+     1     1     1     1     0     1     0     0     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,0'1,1'2,3'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     1     0     0
+     1     0     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 3
+
+
+one_dimentional_dop_code =
+
+     1     1     1     3    10
+
+
+one_dimentional_binary_code =
+
+     1     1     1     1     0     0     1     0     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,0'1,1'3,3'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     0     0     0
+     1     1     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 4
+
+
+one_dimentional_dop_code =
+
+     1     1     1     4     9
+
+
+one_dimentional_binary_code =
+
+     1     1     1     1     0     0     0     1     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,0'1,1'0,3'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     0     0     0
+     1     0     0     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 5
+
+
+one_dimentional_dop_code =
+
+     1     1     1     5     8
+
+
+one_dimentional_binary_code =
+
+     1     1     1     1     0     0     0     0     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,0'1,2'1,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     1     0     0     0
+     1     0     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 6
+
+
+one_dimentional_dop_code =
+
+     1     1     1     6     7
+
+
+one_dimentional_binary_code =
+
+     1     1     1     1     0     0     0     0     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,0'1,2'2,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     0     1     0
+     1     0     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 7
+
+
+one_dimentional_dop_code =
+
+     1     1     2     1    11
+
+
+one_dimentional_binary_code =
+
+     1     1     1     0     1     1     0     0     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,1'2,0'1,3'3]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     1     1     0     0
+     1     0     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 8
+
+
+one_dimentional_dop_code =
+
+     1     1     2     2    10
+
+
+one_dimentional_binary_code =
+
+     1     1     1     0     1     0     1     0     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,1'2,0'2,3'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     1     0     0     0
+     1     1     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 9
+
+
+one_dimentional_dop_code =
+
+     1     1     2     3     9
+
+
+one_dimentional_binary_code =
+
+     1     1     1     0     1     0     0     1     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,1'2,0'3,3'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     1     0     0     0
+     1     0     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 10
+
+
+one_dimentional_dop_code =
+
+     1     1     2     4     8
+
+
+one_dimentional_binary_code =
+
+     1     1     1     0     1     0     0     0     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,1'2,1'0,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     1     0     0     0
+     1     0     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 11
+
+
+one_dimentional_dop_code =
+
+     1     1     2     5     7
+
+
+one_dimentional_binary_code =
+
+     1     1     1     0     1     0     0     0     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,1'2,1'1,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     1     0     1     0
+     1     0     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 12
+
+
+one_dimentional_dop_code =
+
+     1     1     2     6     6
+
+
+one_dimentional_binary_code =
+
+     1     1     1     0     1     0     0     0     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,1'2,1'2,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     1     0     0     0
+     1     0     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 13
+
+
+one_dimentional_dop_code =
+
+     1     1     3     1    10
+
+
+one_dimentional_binary_code =
+
+     1     1     1     0     0     1     1     0     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,1'3,0'1,3'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     1     0     0
+     1     1     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 14
+
+
+one_dimentional_dop_code =
+
+     1     1     3     2     9
+
+
+one_dimentional_binary_code =
+
+     1     1     1     0     0     1     0     1     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,1'3,0'2,3'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     1     0     0
+     1     0     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 15
+
+
+one_dimentional_dop_code =
+
+     1     1     3     3     8
+
+
+one_dimentional_binary_code =
+
+     1     1     1     0     0     1     0     0     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,1'3,1'3,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     1     1     0     0
+     1     0     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 16
+
+
+one_dimentional_dop_code =
+
+     1     1     3     4     7
+
+
+one_dimentional_binary_code =
+
+     1     1     1     0     0     1     0     0     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,1'3,1'0,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     1     1     0
+     1     0     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 17
+
+
+one_dimentional_dop_code =
+
+     1     1     3     5     6
+
+
+one_dimentional_binary_code =
+
+     1     1     1     0     0     1     0     0     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,1'3,1'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     1     0     0
+     1     0     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 18
+
+
+one_dimentional_dop_code =
+
+     1     1     4     1     9
+
+
+one_dimentional_binary_code =
+
+     1     1     1     0     0     0     1     1     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,1'0,0'1,3'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     0     0     0
+     1     1     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 19
+
+
+one_dimentional_dop_code =
+
+     1     1     4     2     8
+
+
+one_dimentional_binary_code =
+
+     1     1     1     0     0     0     1     0     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,1'0,1'2,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     1     0     0     0
+     1     1     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 20
+
+
+one_dimentional_dop_code =
+
+     1     1     4     3     7
+
+
+one_dimentional_binary_code =
+
+     1     1     1     0     0     0     1     0     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,1'0,1'3,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     0     1     0
+     1     1     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 21
+
+
+one_dimentional_dop_code =
+
+     1     1     4     4     6
+
+
+one_dimentional_binary_code =
+
+     1     1     1     0     0     0     1     0     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,1'0,1'0,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     0     0     0
+     1     1     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 22
+
+
+one_dimentional_dop_code =
+
+     1     1     4     5     5
+
+
+one_dimentional_binary_code =
+
+     1     1     1     0     0     0     1     0     0     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,1'0,1'1,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     0     0     0
+     1     1     0     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 23
+
+
+one_dimentional_dop_code =
+
+     1     1     5     1     8
+
+
+one_dimentional_binary_code =
+
+     1     1     1     0     0     0     0     1     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,1'1,1'1,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     1     0     0     0
+     1     0     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 24
+
+
+one_dimentional_dop_code =
+
+     1     1     5     2     7
+
+
+one_dimentional_binary_code =
+
+     1     1     1     0     0     0     0     1     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,1'1,1'2,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     0     1     0
+     1     0     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 25
+
+
+one_dimentional_dop_code =
+
+     1     1     5     3     6
+
+
+one_dimentional_binary_code =
+
+     1     1     1     0     0     0     0     1     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,1'1,1'3,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     0     0     0
+     1     0     1     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 26
+
+
+one_dimentional_dop_code =
+
+     1     1     5     4     5
+
+
+one_dimentional_binary_code =
+
+     1     1     1     0     0     0     0     1     0     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,1'1,1'0,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     0     0     0
+     1     0     0     0
+     0     1     1     0
+
+
+serial_no =
+
+serial no 27
+
+
+one_dimentional_dop_code =
+
+     1     1     6     1     7
+
+
+one_dimentional_binary_code =
+
+     1     1     1     0     0     0     0     0     1     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,2'2,0'1,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     1     0     1     0
+     1     0     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 28
+
+
+one_dimentional_dop_code =
+
+     1     1     6     2     6
+
+
+one_dimentional_binary_code =
+
+     1     1     1     0     0     0     0     0     1     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'1,2'2,0'2,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     1     0     0     0
+     1     0     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 29
+
+
+one_dimentional_dop_code =
+
+     1     2     1     1    11
+
+
+one_dimentional_binary_code =
+
+     1     1     0     1     1     1     0     0     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'2,1'1,0'1,3'3]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     1     1     0     0
+     0     0     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 30
+
+
+one_dimentional_dop_code =
+
+     1     2     1     2    10
+
+
+one_dimentional_binary_code =
+
+     1     1     0     1     1     0     1     0     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'2,1'1,0'2,3'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     1     0     0     0
+     0     1     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 31
+
+
+one_dimentional_dop_code =
+
+     1     2     1     3     9
+
+
+one_dimentional_binary_code =
+
+     1     1     0     1     1     0     0     1     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'2,1'1,0'3,3'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     1     0     0     0
+     0     0     0     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 32
+
+
+one_dimentional_dop_code =
+
+     1     2     1     4     8
+
+
+one_dimentional_binary_code =
+
+     1     1     0     1     1     0     0     0     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'2,1'1,1'0,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     1     0     0     0
+     0     0     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 33
+
+
+one_dimentional_dop_code =
+
+     1     2     1     5     7
+
+
+one_dimentional_binary_code =
+
+     1     1     0     1     1     0     0     0     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'2,1'1,1'1,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     1     0     1     0
+     0     0     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 34
+
+
+one_dimentional_dop_code =
+
+     1     2     1     6     6
+
+
+one_dimentional_binary_code =
+
+     1     1     0     1     1     0     0     0     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'2,1'1,1'2,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     1     0     0     0
+     0     0     1     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 35
+
+
+one_dimentional_dop_code =
+
+     1     2     2     1    10
+
+
+one_dimentional_binary_code =
+
+     1     1     0     1     0     1     1     0     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'2,1'2,0'1,3'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     1     0     0
+     0     1     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 36
+
+
+one_dimentional_dop_code =
+
+     1     2     2     2     9
+
+
+one_dimentional_binary_code =
+
+     1     1     0     1     0     1     0     1     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'2,1'2,0'2,3'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     1     0     0
+     0     0     0     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 37
+
+
+one_dimentional_dop_code =
+
+     1     2     2     3     8
+
+
+one_dimentional_binary_code =
+
+     1     1     0     1     0     1     0     0     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'2,1'2,1'3,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     1     1     0     0
+     0     0     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 38
+
+
+one_dimentional_dop_code =
+
+     1     2     2     4     7
+
+
+one_dimentional_binary_code =
+
+     1     1     0     1     0     1     0     0     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'2,1'2,1'0,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     1     1     0
+     0     0     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 39
+
+
+one_dimentional_dop_code =
+
+     1     2     2     5     6
+
+
+one_dimentional_binary_code =
+
+     1     1     0     1     0     1     0     0     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'2,1'2,1'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     1     0     0
+     0     0     1     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 40
+
+
+one_dimentional_dop_code =
+
+     1     2     3     1     9
+
+
+one_dimentional_binary_code =
+
+     1     1     0     1     0     0     1     1     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'2,1'3,0'1,3'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     0     0     0
+     0     1     0     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 41
+
+
+one_dimentional_dop_code =
+
+     1     2     3     2     8
+
+
+one_dimentional_binary_code =
+
+     1     1     0     1     0     0     1     0     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'2,1'3,1'2,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     1     0     0     0
+     0     1     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 42
+
+
+one_dimentional_dop_code =
+
+     1     2     3     3     7
+
+
+one_dimentional_binary_code =
+
+     1     1     0     1     0     0     1     0     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'2,1'3,1'3,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     0     1     0
+     0     1     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 43
+
+
+one_dimentional_dop_code =
+
+     1     2     3     4     6
+
+
+one_dimentional_binary_code =
+
+     1     1     0     1     0     0     1     0     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'2,1'3,1'0,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     0     0     0
+     0     1     1     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 44
+
+
+one_dimentional_dop_code =
+
+     1     2     3     5     5
+
+
+one_dimentional_binary_code =
+
+     1     1     0     1     0     0     1     0     0     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'2,1'3,1'1,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     0     0     0
+     0     1     0     0
+     1     0     1     0
+
+
+serial_no =
+
+serial no 45
+
+
+one_dimentional_dop_code =
+
+     1     2     4     1     8
+
+
+one_dimentional_binary_code =
+
+     1     1     0     1     0     0     0     1     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'2,1'0,1'1,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     1     0     0     0
+     0     0     0     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 46
+
+
+one_dimentional_dop_code =
+
+     1     2     4     2     7
+
+
+one_dimentional_binary_code =
+
+     1     1     0     1     0     0     0     1     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'2,1'0,1'2,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     0     1     0
+     0     0     0     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 47
+
+
+one_dimentional_dop_code =
+
+     1     2     4     3     6
+
+
+one_dimentional_binary_code =
+
+     1     1     0     1     0     0     0     1     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'2,1'0,1'3,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     0     0     0
+     0     0     1     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 48
+
+
+one_dimentional_dop_code =
+
+     1     2     4     4     5
+
+
+one_dimentional_binary_code =
+
+     1     1     0     1     0     0     0     1     0     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'2,1'0,1'0,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     0     0     0
+     0     0     0     0
+     1     1     1     0
+
+
+serial_no =
+
+serial no 49
+
+
+one_dimentional_dop_code =
+
+     1     2     5     1     7
+
+
+one_dimentional_binary_code =
+
+     1     1     0     1     0     0     0     0     1     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'2,2'1,0'1,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     1     0     1     0
+     0     0     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 50
+
+
+one_dimentional_dop_code =
+
+     1     2     5     2     6
+
+
+one_dimentional_binary_code =
+
+     1     1     0     1     0     0     0     0     1     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'2,2'1,0'2,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     1     0     0     0
+     0     0     1     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 51
+
+
+one_dimentional_dop_code =
+
+     1     2     5     3     5
+
+
+one_dimentional_binary_code =
+
+     1     1     0     1     0     0     0     0     1     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'2,2'1,0'3,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     1     0     0     0
+     0     0     0     0
+     1     0     1     0
+
+
+serial_no =
+
+serial no 52
+
+
+one_dimentional_dop_code =
+
+     1     2     6     1     6
+
+
+one_dimentional_binary_code =
+
+     1     1     0     1     0     0     0     0     0     1     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,0'2,2'2,0'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     0     1     0
+     0     0     1     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 53
+
+
+one_dimentional_dop_code =
+
+     1     3     1     1    10
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     1     1     1     0     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'3,0'1,0'1,3'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     1     1     0     0
+     0     1     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 54
+
+
+one_dimentional_dop_code =
+
+     1     3     1     2     9
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     1     1     0     1     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'3,0'1,0'2,3'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     1     1     0     0
+     0     0     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 55
+
+
+one_dimentional_dop_code =
+
+     1     3     1     3     8
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     1     1     0     0     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'3,0'1,1'3,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     1     1     0     0
+     0     0     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 56
+
+
+one_dimentional_dop_code =
+
+     1     3     1     4     7
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     1     1     0     0     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'3,0'1,1'0,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     1     1     1     0
+     0     0     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 57
+
+
+one_dimentional_dop_code =
+
+     1     3     1     5     6
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     1     1     0     0     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'3,0'1,1'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     1     1     0     0
+     0     0     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 58
+
+
+one_dimentional_dop_code =
+
+     1     3     2     1     9
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     1     0     1     1     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'3,0'2,0'1,3'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     1     0     0     0
+     0     1     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 59
+
+
+one_dimentional_dop_code =
+
+     1     3     2     2     8
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     1     0     1     0     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'3,0'2,1'2,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     1     0     0     0
+     0     1     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 60
+
+
+one_dimentional_dop_code =
+
+     1     3     2     3     7
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     1     0     1     0     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'3,0'2,1'3,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     1     0     1     0
+     0     1     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 61
+
+
+one_dimentional_dop_code =
+
+     1     3     2     4     6
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     1     0     1     0     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'3,0'2,1'0,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     1     0     0     0
+     0     1     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 62
+
+
+one_dimentional_dop_code =
+
+     1     3     2     5     5
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     1     0     1     0     0     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'3,0'2,1'1,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     1     0     0     0
+     0     1     0     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 63
+
+
+one_dimentional_dop_code =
+
+     1     3     3     1     8
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     1     0     0     1     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'3,0'3,1'1,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     1     0     0     0
+     0     0     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 64
+
+
+one_dimentional_dop_code =
+
+     1     3     3     2     7
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     1     0     0     1     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'3,0'3,1'2,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     1     0     1     0
+     0     0     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 65
+
+
+one_dimentional_dop_code =
+
+     1     3     3     3     6
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     1     0     0     1     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'3,0'3,1'3,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     1     0     0     0
+     0     0     1     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 66
+
+
+one_dimentional_dop_code =
+
+     1     3     3     4     5
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     1     0     0     1     0     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'3,0'3,1'0,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     1     0     0     0
+     0     0     0     0
+     0     1     1     0
+
+
+serial_no =
+
+serial no 67
+
+
+one_dimentional_dop_code =
+
+     1     3     4     1     7
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     1     0     0     0     1     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'3,1'0,0'1,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     1     0     1     0
+     0     0     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 68
+
+
+one_dimentional_dop_code =
+
+     1     3     4     2     6
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     1     0     0     0     1     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'3,1'0,0'2,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     1     0     0     0
+     0     0     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 69
+
+
+one_dimentional_dop_code =
+
+     1     3     4     3     5
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     1     0     0     0     1     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'3,1'0,0'3,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     1     0     0     0
+     0     0     0     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 70
+
+
+one_dimentional_dop_code =
+
+     1     3     4     4     4
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     1     0     0     0     1     0     0     0     1     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'3,1'0,1'0,1'0]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     1
+     1     0     0     0
+     0     0     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 71
+
+
+one_dimentional_dop_code =
+
+     1     3     5     1     6
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     1     0     0     0     0     1     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'3,1'1,0'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     1     0     1     0
+     0     0     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 72
+
+
+one_dimentional_dop_code =
+
+     1     3     5     2     5
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     1     0     0     0     0     1     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'3,1'1,0'2,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     1     0     1     0
+     0     0     0     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 73
+
+
+one_dimentional_dop_code =
+
+     1     4     1     1     9
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     1     1     1     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'0,0'1,0'1,3'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     1     0     0
+     0     1     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 74
+
+
+one_dimentional_dop_code =
+
+     1     4     1     2     8
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     1     1     0     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'0,0'1,1'2,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     1     1     0     0
+     0     1     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 75
+
+
+one_dimentional_dop_code =
+
+     1     4     1     3     7
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     1     1     0     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'0,0'1,1'3,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     1     1     0
+     0     1     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 76
+
+
+one_dimentional_dop_code =
+
+     1     4     1     4     6
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     1     1     0     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'0,0'1,1'0,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     1     0     0
+     0     1     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 77
+
+
+one_dimentional_dop_code =
+
+     1     4     1     5     5
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     1     1     0     0     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'0,0'1,1'1,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     1     0     0
+     0     1     0     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 78
+
+
+one_dimentional_dop_code =
+
+     1     4     2     1     8
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     1     0     1     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'0,0'2,1'1,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     1     1     0     0
+     0     0     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 79
+
+
+one_dimentional_dop_code =
+
+     1     4     2     2     7
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     1     0     1     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'0,0'2,1'2,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     1     1     0
+     0     0     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 80
+
+
+one_dimentional_dop_code =
+
+     1     4     2     3     6
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     1     0     1     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'0,0'2,1'3,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     1     0     0
+     0     0     1     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 81
+
+
+one_dimentional_dop_code =
+
+     1     4     2     4     5
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     1     0     1     0     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'0,0'2,1'0,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     1     0     0
+     0     0     0     0
+     0     1     1     0
+
+
+serial_no =
+
+serial no 82
+
+
+one_dimentional_dop_code =
+
+     1     4     3     1     7
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     1     0     0     1     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'0,1'3,0'1,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     1     1     1     0
+     0     0     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 83
+
+
+one_dimentional_dop_code =
+
+     1     4     3     2     6
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     1     0     0     1     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'0,1'3,0'2,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     1     1     0     0
+     0     0     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 84
+
+
+one_dimentional_dop_code =
+
+     1     4     3     3     5
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     1     0     0     1     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'0,1'3,0'3,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     1     1     0     0
+     0     0     0     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 85
+
+
+one_dimentional_dop_code =
+
+     1     4     3     4     4
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     1     0     0     1     0     0     0     1     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'0,1'3,1'0,1'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     1
+     1     1     0     0
+     0     0     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 86
+
+
+one_dimentional_dop_code =
+
+     1     4     4     1     6
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     1     0     0     0     1     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'0,1'0,0'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     1     1     0
+     0     0     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 87
+
+
+one_dimentional_dop_code =
+
+     1     4     4     2     5
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     1     0     0     0     1     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'0,1'0,0'2,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     1     1     0
+     0     0     0     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 88
+
+
+one_dimentional_dop_code =
+
+     1     4     4     3     4
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     1     0     0     0     1     0     0     1     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'0,1'0,1'3,1'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     1
+     1     1     1     0
+     0     0     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 89
+
+
+one_dimentional_dop_code =
+
+     1     4     5     1     5
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     1     0     0     0     0     1     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'0,1'1,0'1,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     1     0     0
+     0     0     1     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 90
+
+
+one_dimentional_dop_code =
+
+     1     5     1     1     8
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     0     1     1     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'1,0'1,1'1,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     1     0     0     0
+     0     1     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 91
+
+
+one_dimentional_dop_code =
+
+     1     5     1     2     7
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     0     1     1     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'1,0'1,1'2,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     0     1     0
+     0     1     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 92
+
+
+one_dimentional_dop_code =
+
+     1     5     1     3     6
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     0     1     1     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'1,0'1,1'3,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     0     0     0
+     0     1     1     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 93
+
+
+one_dimentional_dop_code =
+
+     1     5     2     1     7
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     0     1     0     1     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'1,1'2,0'1,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     1     0     1     0
+     0     1     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 94
+
+
+one_dimentional_dop_code =
+
+     1     5     2     2     6
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     0     1     0     1     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'1,1'2,0'2,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     1     0     0     0
+     0     1     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 95
+
+
+one_dimentional_dop_code =
+
+     1     5     2     3     5
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     0     1     0     1     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'1,1'2,0'3,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     1     0     0     0
+     0     1     0     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 96
+
+
+one_dimentional_dop_code =
+
+     1     5     3     1     6
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     0     1     0     0     1     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'1,1'3,0'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     0     1     0
+     0     1     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 97
+
+
+one_dimentional_dop_code =
+
+     1     5     3     2     5
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     0     1     0     0     1     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'1,1'3,0'2,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     0     1     0
+     0     1     0     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 98
+
+
+one_dimentional_dop_code =
+
+     1     5     4     1     5
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     0     1     0     0     0     1     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'1,1'0,0'1,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     0     0     0
+     0     1     1     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 99
+
+
+one_dimentional_dop_code =
+
+     1     6     1     1     7
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     0     0     1     1     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'2,1'1,0'1,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     1     0     1     0
+     0     0     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 100
+
+
+one_dimentional_dop_code =
+
+     1     6     2     1     6
+
+
+one_dimentional_binary_code =
+
+     1     1     0     0     0     0     0     1     0     1     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'1,1'2,1'2,0'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     1     0     1     0
+     0     0     1     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 101
+
+
+one_dimentional_dop_code =
+
+     2     1     1     1    11
+
+
+one_dimentional_binary_code =
+
+     1     0     1     1     1     1     0     0     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,0'1,1'1,0'1,3'3]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     1     0     0
+     1     0     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 102
+
+
+one_dimentional_dop_code =
+
+     2     1     1     2    10
+
+
+one_dimentional_binary_code =
+
+     1     0     1     1     1     0     1     0     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,0'1,1'1,0'2,3'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     0     0
+     1     1     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 103
+
+
+one_dimentional_dop_code =
+
+     2     1     1     3     9
+
+
+one_dimentional_binary_code =
+
+     1     0     1     1     1     0     0     1     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,0'1,1'1,0'3,3'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     0     0
+     1     0     0     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 104
+
+
+one_dimentional_dop_code =
+
+     2     1     1     4     8
+
+
+one_dimentional_binary_code =
+
+     1     0     1     1     1     0     0     0     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,0'1,1'1,1'0,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     0     0     0
+     1     0     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 105
+
+
+one_dimentional_dop_code =
+
+     2     1     1     5     7
+
+
+one_dimentional_binary_code =
+
+     1     0     1     1     1     0     0     0     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,0'1,1'1,1'1,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     1     0
+     1     0     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 106
+
+
+one_dimentional_dop_code =
+
+     2     1     1     6     6
+
+
+one_dimentional_binary_code =
+
+     1     0     1     1     1     0     0     0     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,0'1,1'1,1'2,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     0     0
+     1     0     1     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 107
+
+
+one_dimentional_dop_code =
+
+     2     1     2     1    10
+
+
+one_dimentional_binary_code =
+
+     1     0     1     1     0     1     1     0     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,0'1,1'2,0'1,3'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     0     0
+     1     1     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 108
+
+
+one_dimentional_dop_code =
+
+     2     1     2     2     9
+
+
+one_dimentional_binary_code =
+
+     1     0     1     1     0     1     0     1     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,0'1,1'2,0'2,3'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     0     0
+     1     0     0     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 109
+
+
+one_dimentional_dop_code =
+
+     2     1     2     3     8
+
+
+one_dimentional_binary_code =
+
+     1     0     1     1     0     1     0     0     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,0'1,1'2,1'3,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     1     0     0
+     1     0     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 110
+
+
+one_dimentional_dop_code =
+
+     2     1     2     4     7
+
+
+one_dimentional_binary_code =
+
+     1     0     1     1     0     1     0     0     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,0'1,1'2,1'0,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     1     0
+     1     0     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 111
+
+
+one_dimentional_dop_code =
+
+     2     1     2     5     6
+
+
+one_dimentional_binary_code =
+
+     1     0     1     1     0     1     0     0     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,0'1,1'2,1'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     0     0
+     1     0     1     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 112
+
+
+one_dimentional_dop_code =
+
+     2     1     3     1     9
+
+
+one_dimentional_binary_code =
+
+     1     0     1     1     0     0     1     1     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,0'1,1'3,0'1,3'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     0     0     0
+     1     1     0     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 113
+
+
+one_dimentional_dop_code =
+
+     2     1     3     2     8
+
+
+one_dimentional_binary_code =
+
+     1     0     1     1     0     0     1     0     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,0'1,1'3,1'2,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     0     0     0
+     1     1     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 114
+
+
+one_dimentional_dop_code =
+
+     2     1     3     3     7
+
+
+one_dimentional_binary_code =
+
+     1     0     1     1     0     0     1     0     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,0'1,1'3,1'3,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     0     1     0
+     1     1     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 115
+
+
+one_dimentional_dop_code =
+
+     2     1     3     4     6
+
+
+one_dimentional_binary_code =
+
+     1     0     1     1     0     0     1     0     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,0'1,1'3,1'0,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     0     0     0
+     1     1     1     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 116
+
+
+one_dimentional_dop_code =
+
+     2     1     3     5     5
+
+
+one_dimentional_binary_code =
+
+     1     0     1     1     0     0     1     0     0     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,0'1,1'3,1'1,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     0     0     0
+     1     1     0     0
+     1     0     1     0
+
+
+serial_no =
+
+serial no 117
+
+
+one_dimentional_dop_code =
+
+     2     1     4     1     8
+
+
+one_dimentional_binary_code =
+
+     1     0     1     1     0     0     0     1     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,0'1,1'0,1'1,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     0     0     0
+     1     0     0     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 118
+
+
+one_dimentional_dop_code =
+
+     2     1     4     2     7
+
+
+one_dimentional_binary_code =
+
+     1     0     1     1     0     0     0     1     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,0'1,1'0,1'2,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     0     1     0
+     1     0     0     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 119
+
+
+one_dimentional_dop_code =
+
+     2     1     4     3     6
+
+
+one_dimentional_binary_code =
+
+     1     0     1     1     0     0     0     1     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,0'1,1'0,1'3,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     0     0     0
+     1     0     1     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 120
+
+
+one_dimentional_dop_code =
+
+     2     1     4     4     5
+
+
+one_dimentional_binary_code =
+
+     1     0     1     1     0     0     0     1     0     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,0'1,1'0,1'0,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     0     0     0
+     1     0     0     0
+     1     1     1     0
+
+
+serial_no =
+
+serial no 121
+
+
+one_dimentional_dop_code =
+
+     2     1     5     1     7
+
+
+one_dimentional_binary_code =
+
+     1     0     1     1     0     0     0     0     1     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,0'1,2'1,0'1,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     0     1     0
+     1     0     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 122
+
+
+one_dimentional_dop_code =
+
+     2     1     5     2     6
+
+
+one_dimentional_binary_code =
+
+     1     0     1     1     0     0     0     0     1     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,0'1,2'1,0'2,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     0     0     0
+     1     0     1     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 123
+
+
+one_dimentional_dop_code =
+
+     2     1     5     3     5
+
+
+one_dimentional_binary_code =
+
+     1     0     1     1     0     0     0     0     1     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,0'1,2'1,0'3,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     0     0     0
+     1     0     0     0
+     1     0     1     0
+
+
+serial_no =
+
+serial no 124
+
+
+one_dimentional_dop_code =
+
+     2     2     1     1    10
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     1     1     1     0     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'2,0'1,0'1,3'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     1     0     0
+     1     1     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 125
+
+
+one_dimentional_dop_code =
+
+     2     2     1     2     9
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     1     1     0     1     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'2,0'1,0'2,3'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     1     0     0
+     1     0     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 126
+
+
+one_dimentional_dop_code =
+
+     2     2     1     3     8
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     1     1     0     0     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'2,0'1,1'3,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     1     0     0
+     1     0     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 127
+
+
+one_dimentional_dop_code =
+
+     2     2     1     4     7
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     1     1     0     0     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'2,0'1,1'0,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     1     1     0
+     1     0     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 128
+
+
+one_dimentional_dop_code =
+
+     2     2     1     5     6
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     1     1     0     0     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'2,0'1,1'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     1     0     0
+     1     0     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 129
+
+
+one_dimentional_dop_code =
+
+     2     2     2     1     9
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     1     0     1     1     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'2,0'2,0'1,3'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     0     0
+     1     1     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 130
+
+
+one_dimentional_dop_code =
+
+     2     2     2     2     8
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     1     0     1     0     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'2,0'2,1'2,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     0     0     0
+     1     1     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 131
+
+
+one_dimentional_dop_code =
+
+     2     2     2     3     7
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     1     0     1     0     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'2,0'2,1'3,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     1     0
+     1     1     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 132
+
+
+one_dimentional_dop_code =
+
+     2     2     2     4     6
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     1     0     1     0     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'2,0'2,1'0,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     0     0
+     1     1     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 133
+
+
+one_dimentional_dop_code =
+
+     2     2     2     5     5
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     1     0     1     0     0     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'2,0'2,1'1,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     0     0
+     1     1     0     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 134
+
+
+one_dimentional_dop_code =
+
+     2     2     3     1     8
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     1     0     0     1     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'2,0'3,1'1,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     0     0     0
+     1     0     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 135
+
+
+one_dimentional_dop_code =
+
+     2     2     3     2     7
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     1     0     0     1     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'2,0'3,1'2,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     1     0
+     1     0     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 136
+
+
+one_dimentional_dop_code =
+
+     2     2     3     3     6
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     1     0     0     1     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'2,0'3,1'3,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     0     0
+     1     0     1     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 137
+
+
+one_dimentional_dop_code =
+
+     2     2     3     4     5
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     1     0     0     1     0     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'2,0'3,1'0,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     0     0
+     1     0     0     0
+     0     1     1     0
+
+
+serial_no =
+
+serial no 138
+
+
+one_dimentional_dop_code =
+
+     2     2     4     1     7
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     1     0     0     0     1     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'2,1'0,0'1,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     0     1     0
+     1     0     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 139
+
+
+one_dimentional_dop_code =
+
+     2     2     4     2     6
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     1     0     0     0     1     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'2,1'0,0'2,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     0     0     0
+     1     0     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 140
+
+
+one_dimentional_dop_code =
+
+     2     2     4     3     5
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     1     0     0     0     1     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'2,1'0,0'3,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     0     0     0
+     1     0     0     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 141
+
+
+one_dimentional_dop_code =
+
+     2     2     4     4     4
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     1     0     0     0     1     0     0     0     1     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'2,1'0,1'0,1'0]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     1
+     0     0     0     0
+     1     0     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 142
+
+
+one_dimentional_dop_code =
+
+     2     2     5     1     6
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     1     0     0     0     0     1     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'2,1'1,0'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     1     0
+     1     0     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 143
+
+
+one_dimentional_dop_code =
+
+     2     2     5     2     5
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     1     0     0     0     0     1     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'2,1'1,0'2,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     1     0
+     1     0     0     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 144
+
+
+one_dimentional_dop_code =
+
+     2     3     1     1     9
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     1     1     1     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'3,0'1,0'1,3'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     0     0
+     1     1     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 145
+
+
+one_dimentional_dop_code =
+
+     2     3     1     2     8
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     1     1     0     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'3,0'1,1'2,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     1     0     0
+     1     1     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 146
+
+
+one_dimentional_dop_code =
+
+     2     3     1     3     7
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     1     1     0     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'3,0'1,1'3,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     1     0
+     1     1     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 147
+
+
+one_dimentional_dop_code =
+
+     2     3     1     4     6
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     1     1     0     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'3,0'1,1'0,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     0     0
+     1     1     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 148
+
+
+one_dimentional_dop_code =
+
+     2     3     1     5     5
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     1     1     0     0     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'3,0'1,1'1,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     0     0
+     1     1     0     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 149
+
+
+one_dimentional_dop_code =
+
+     2     3     2     1     8
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     1     0     1     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'3,0'2,1'1,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     1     0     0
+     1     0     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 150
+
+
+one_dimentional_dop_code =
+
+     2     3     2     2     7
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     1     0     1     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'3,0'2,1'2,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     1     0
+     1     0     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 151
+
+
+one_dimentional_dop_code =
+
+     2     3     2     3     6
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     1     0     1     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'3,0'2,1'3,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     0     0
+     1     0     1     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 152
+
+
+one_dimentional_dop_code =
+
+     2     3     2     4     5
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     1     0     1     0     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'3,0'2,1'0,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     0     0
+     1     0     0     0
+     0     1     1     0
+
+
+serial_no =
+
+serial no 153
+
+
+one_dimentional_dop_code =
+
+     2     3     3     1     7
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     1     0     0     1     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'3,1'3,0'1,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     1     1     0
+     1     0     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 154
+
+
+one_dimentional_dop_code =
+
+     2     3     3     2     6
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     1     0     0     1     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'3,1'3,0'2,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     1     0     0
+     1     0     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 155
+
+
+one_dimentional_dop_code =
+
+     2     3     3     3     5
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     1     0     0     1     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'3,1'3,0'3,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     1     0     0
+     1     0     0     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 156
+
+
+one_dimentional_dop_code =
+
+     2     3     3     4     4
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     1     0     0     1     0     0     0     1     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'3,1'3,1'0,1'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     1
+     0     1     0     0
+     1     0     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 157
+
+
+one_dimentional_dop_code =
+
+     2     3     4     1     6
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     1     0     0     0     1     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'3,1'0,0'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     1     0
+     1     0     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 158
+
+
+one_dimentional_dop_code =
+
+     2     3     4     2     5
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     1     0     0     0     1     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'3,1'0,0'2,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     1     0
+     1     0     0     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 159
+
+
+one_dimentional_dop_code =
+
+     2     3     4     3     4
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     1     0     0     0     1     0     0     1     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'3,1'0,1'3,1'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     1
+     0     1     1     0
+     1     0     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 160
+
+
+one_dimentional_dop_code =
+
+     2     4     1     1     8
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     0     1     1     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'0,0'1,1'1,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     0     0     0
+     1     1     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 161
+
+
+one_dimentional_dop_code =
+
+     2     4     1     2     7
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     0     1     1     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'0,0'1,1'2,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     0     1     0
+     1     1     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 162
+
+
+one_dimentional_dop_code =
+
+     2     4     1     3     6
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     0     1     1     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'0,0'1,1'3,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     0     0     0
+     1     1     1     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 163
+
+
+one_dimentional_dop_code =
+
+     2     4     1     4     5
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     0     1     1     0     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'0,0'1,1'0,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     0     0     0
+     1     1     0     0
+     0     1     1     0
+
+
+serial_no =
+
+serial no 164
+
+
+one_dimentional_dop_code =
+
+     2     4     2     1     7
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     0     1     0     1     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'0,1'2,0'1,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     0     1     0
+     1     1     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 165
+
+
+one_dimentional_dop_code =
+
+     2     4     2     2     6
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     0     1     0     1     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'0,1'2,0'2,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     0     0     0
+     1     1     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 166
+
+
+one_dimentional_dop_code =
+
+     2     4     2     3     5
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     0     1     0     1     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'0,1'2,0'3,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     0     0     0
+     1     1     0     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 167
+
+
+one_dimentional_dop_code =
+
+     2     4     2     4     4
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     0     1     0     1     0     0     0     1     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'0,1'2,1'0,1'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     1
+     0     0     0     0
+     1     1     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 168
+
+
+one_dimentional_dop_code =
+
+     2     4     3     1     6
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     0     1     0     0     1     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'0,1'3,0'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     0     1     0
+     1     1     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 169
+
+
+one_dimentional_dop_code =
+
+     2     4     3     2     5
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     0     1     0     0     1     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'0,1'3,0'2,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     0     1     0
+     1     1     0     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 170
+
+
+one_dimentional_dop_code =
+
+     2     4     3     3     4
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     0     1     0     0     1     0     0     1     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'0,1'3,1'3,1'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     1
+     0     0     1     0
+     1     1     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 171
+
+
+one_dimentional_dop_code =
+
+     2     4     4     1     5
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     0     1     0     0     0     1     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'0,1'0,0'1,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     0     0     0
+     1     1     1     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 172
+
+
+one_dimentional_dop_code =
+
+     2     5     1     1     7
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     0     0     1     1     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'1,1'1,0'1,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     0     1     0
+     1     0     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 173
+
+
+one_dimentional_dop_code =
+
+     2     5     1     2     6
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     0     0     1     1     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'1,1'1,0'2,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     0     0     0
+     1     0     1     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 174
+
+
+one_dimentional_dop_code =
+
+     2     5     2     1     6
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     0     0     1     0     1     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'1,1'2,0'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     0     1     0
+     1     0     1     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 175
+
+
+one_dimentional_dop_code =
+
+     2     5     3     1     5
+
+
+one_dimentional_binary_code =
+
+     1     0     1     0     0     0     0     1     0     0     1     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'2,1'1,1'3,0'1,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     0     0     0
+     1     0     1     0
+     0     1     1     0
+
+
+serial_no =
+
+serial no 176
+
+
+one_dimentional_dop_code =
+
+     3     1     1     1    10
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     1     1     1     0     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'1,0'1,0'1,3'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     1     0     0
+     0     1     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 177
+
+
+one_dimentional_dop_code =
+
+     3     1     1     2     9
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     1     1     0     1     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'1,0'1,0'2,3'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     1     0     0
+     0     0     0     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 178
+
+
+one_dimentional_dop_code =
+
+     3     1     1     3     8
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     1     1     0     0     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'1,0'1,1'3,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     1     0     0
+     0     0     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 179
+
+
+one_dimentional_dop_code =
+
+     3     1     1     4     7
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     1     1     0     0     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'1,0'1,1'0,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     1     1     0
+     0     0     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 180
+
+
+one_dimentional_dop_code =
+
+     3     1     1     5     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     1     1     0     0     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'1,0'1,1'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     1     0     0
+     0     0     1     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 181
+
+
+one_dimentional_dop_code =
+
+     3     1     2     1     9
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     1     0     1     1     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'1,0'2,0'1,3'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     0     0
+     0     1     0     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 182
+
+
+one_dimentional_dop_code =
+
+     3     1     2     2     8
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     1     0     1     0     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'1,0'2,1'2,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     0     0     0
+     0     1     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 183
+
+
+one_dimentional_dop_code =
+
+     3     1     2     3     7
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     1     0     1     0     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'1,0'2,1'3,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     1     0
+     0     1     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 184
+
+
+one_dimentional_dop_code =
+
+     3     1     2     4     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     1     0     1     0     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'1,0'2,1'0,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     0     0
+     0     1     1     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 185
+
+
+one_dimentional_dop_code =
+
+     3     1     2     5     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     1     0     1     0     0     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'1,0'2,1'1,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     0     0
+     0     1     0     0
+     1     0     1     0
+
+
+serial_no =
+
+serial no 186
+
+
+one_dimentional_dop_code =
+
+     3     1     3     1     8
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     1     0     0     1     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'1,0'3,1'1,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     0     0     0
+     0     0     0     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 187
+
+
+one_dimentional_dop_code =
+
+     3     1     3     2     7
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     1     0     0     1     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'1,0'3,1'2,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     1     0
+     0     0     0     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 188
+
+
+one_dimentional_dop_code =
+
+     3     1     3     3     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     1     0     0     1     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'1,0'3,1'3,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     0     0
+     0     0     1     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 189
+
+
+one_dimentional_dop_code =
+
+     3     1     3     4     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     1     0     0     1     0     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'1,0'3,1'0,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     0     0
+     0     0     0     0
+     1     1     1     0
+
+
+serial_no =
+
+serial no 190
+
+
+one_dimentional_dop_code =
+
+     3     1     4     1     7
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     1     0     0     0     1     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'1,1'0,0'1,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     0     1     0
+     0     0     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 191
+
+
+one_dimentional_dop_code =
+
+     3     1     4     2     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     1     0     0     0     1     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'1,1'0,0'2,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     0     0     0
+     0     0     1     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 192
+
+
+one_dimentional_dop_code =
+
+     3     1     4     3     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     1     0     0     0     1     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'1,1'0,0'3,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     0     0     0
+     0     0     0     0
+     1     0     1     0
+
+
+serial_no =
+
+serial no 193
+
+
+one_dimentional_dop_code =
+
+     3     1     4     4     4
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     1     0     0     0     1     0     0     0     1     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'1,1'0,1'0,1'0]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     1
+     0     0     0     0
+     0     0     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 194
+
+
+one_dimentional_dop_code =
+
+     3     1     5     1     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     1     0     0     0     0     1     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'1,1'1,0'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     1     0
+     0     0     1     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 195
+
+
+one_dimentional_dop_code =
+
+     3     2     1     1     9
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     1     1     1     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'2,0'1,0'1,3'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     0     0
+     0     1     0     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 196
+
+
+one_dimentional_dop_code =
+
+     3     2     1     2     8
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     1     1     0     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'2,0'1,1'2,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     1     0     0
+     0     1     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 197
+
+
+one_dimentional_dop_code =
+
+     3     2     1     3     7
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     1     1     0     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'2,0'1,1'3,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     1     0
+     0     1     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 198
+
+
+one_dimentional_dop_code =
+
+     3     2     1     4     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     1     1     0     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'2,0'1,1'0,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     0     0
+     0     1     1     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 199
+
+
+one_dimentional_dop_code =
+
+     3     2     1     5     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     1     1     0     0     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'2,0'1,1'1,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     0     0
+     0     1     0     0
+     1     0     1     0
+
+
+serial_no =
+
+serial no 200
+
+
+one_dimentional_dop_code =
+
+     3     2     2     1     8
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     1     0     1     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'2,0'2,1'1,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     1     0     0
+     0     0     0     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 201
+
+
+one_dimentional_dop_code =
+
+     3     2     2     2     7
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     1     0     1     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'2,0'2,1'2,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     1     0
+     0     0     0     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 202
+
+
+one_dimentional_dop_code =
+
+     3     2     2     3     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     1     0     1     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'2,0'2,1'3,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     0     0
+     0     0     1     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 203
+
+
+one_dimentional_dop_code =
+
+     3     2     2     4     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     1     0     1     0     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'2,0'2,1'0,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     0     0
+     0     0     0     0
+     1     1     1     0
+
+
+serial_no =
+
+serial no 204
+
+
+one_dimentional_dop_code =
+
+     3     2     3     1     7
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     1     0     0     1     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'2,1'3,0'1,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     1     1     0
+     0     0     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 205
+
+
+one_dimentional_dop_code =
+
+     3     2     3     2     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     1     0     0     1     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'2,1'3,0'2,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     1     0     0
+     0     0     1     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 206
+
+
+one_dimentional_dop_code =
+
+     3     2     3     3     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     1     0     0     1     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'2,1'3,0'3,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     1     0     0
+     0     0     0     0
+     1     0     1     0
+
+
+serial_no =
+
+serial no 207
+
+
+one_dimentional_dop_code =
+
+     3     2     3     4     4
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     1     0     0     1     0     0     0     1     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'2,1'3,1'0,1'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     1
+     0     1     0     0
+     0     0     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 208
+
+
+one_dimentional_dop_code =
+
+     3     2     4     1     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     1     0     0     0     1     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'2,1'0,0'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     1     0
+     0     0     1     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 209
+
+
+one_dimentional_dop_code =
+
+     3     2     4     2     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     1     0     0     0     1     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'2,1'0,0'2,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     1     0
+     0     0     0     0
+     1     0     1     0
+
+
+serial_no =
+
+serial no 210
+
+
+one_dimentional_dop_code =
+
+     3     2     4     3     4
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     1     0     0     0     1     0     0     1     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'2,1'0,1'3,1'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     1
+     0     1     1     0
+     0     0     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 211
+
+
+one_dimentional_dop_code =
+
+     3     3     1     1     8
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     0     1     1     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'3,0'1,1'1,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     0     0     0
+     0     1     0     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 212
+
+
+one_dimentional_dop_code =
+
+     3     3     1     2     7
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     0     1     1     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'3,0'1,1'2,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     0     1     0
+     0     1     0     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 213
+
+
+one_dimentional_dop_code =
+
+     3     3     1     3     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     0     1     1     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'3,0'1,1'3,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     0     0     0
+     0     1     1     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 214
+
+
+one_dimentional_dop_code =
+
+     3     3     1     4     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     0     1     1     0     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'3,0'1,1'0,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     0     0     0
+     0     1     0     0
+     1     1     1     0
+
+
+serial_no =
+
+serial no 215
+
+
+one_dimentional_dop_code =
+
+     3     3     2     1     7
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     0     1     0     1     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'3,1'2,0'1,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     0     1     0
+     0     1     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 216
+
+
+one_dimentional_dop_code =
+
+     3     3     2     2     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     0     1     0     1     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'3,1'2,0'2,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     0     0     0
+     0     1     1     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 217
+
+
+one_dimentional_dop_code =
+
+     3     3     2     3     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     0     1     0     1     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'3,1'2,0'3,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     0     0     0
+     0     1     0     0
+     1     0     1     0
+
+
+serial_no =
+
+serial no 218
+
+
+one_dimentional_dop_code =
+
+     3     3     2     4     4
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     0     1     0     1     0     0     0     1     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'3,1'2,1'0,1'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     1
+     0     0     0     0
+     0     1     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 219
+
+
+one_dimentional_dop_code =
+
+     3     3     3     1     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     0     1     0     0     1     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'3,1'3,0'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     0     1     0
+     0     1     1     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 220
+
+
+one_dimentional_dop_code =
+
+     3     3     3     2     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     0     1     0     0     1     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'3,1'3,0'2,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     0     1     0
+     0     1     0     0
+     1     0     1     0
+
+
+serial_no =
+
+serial no 221
+
+
+one_dimentional_dop_code =
+
+     3     3     3     3     4
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     0     1     0     0     1     0     0     1     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'3,1'3,1'3,1'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     1
+     0     0     1     0
+     0     1     0     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 222
+
+
+one_dimentional_dop_code =
+
+     3     3     4     1     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     0     1     0     0     0     1     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'3,1'0,0'1,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     0     0     0
+     0     1     1     0
+     1     0     1     0
+
+
+serial_no =
+
+serial no 223
+
+
+one_dimentional_dop_code =
+
+     3     4     1     1     7
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     0     0     1     1     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'0,1'1,0'1,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     0     1     0
+     0     0     0     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 224
+
+
+one_dimentional_dop_code =
+
+     3     4     1     2     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     0     0     1     1     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'0,1'1,0'2,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     0     0     0
+     0     0     1     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 225
+
+
+one_dimentional_dop_code =
+
+     3     4     1     3     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     0     0     1     1     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'0,1'1,0'3,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     0     0     0
+     0     0     0     0
+     1     1     1     0
+
+
+serial_no =
+
+serial no 226
+
+
+one_dimentional_dop_code =
+
+     3     4     2     1     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     0     0     1     0     1     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'0,1'2,0'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     0     1     0
+     0     0     1     0
+     1     1     0     0
+
+
+serial_no =
+
+serial no 227
+
+
+one_dimentional_dop_code =
+
+     3     4     2     2     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     0     0     1     0     1     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'0,1'2,0'2,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     0     1     0
+     0     0     0     0
+     1     1     1     0
+
+
+serial_no =
+
+serial no 228
+
+
+one_dimentional_dop_code =
+
+     3     4     3     1     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     0     0     1     0     0     1     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,1'0,1'3,0'1,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     0     0     0
+     0     0     1     0
+     1     1     1     0
+
+
+serial_no =
+
+serial no 229
+
+
+one_dimentional_dop_code =
+
+     3     5     1     1     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     1     0     0     0     0     1     1     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[0'3,2'1,0'1,0'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     0     1     0
+     0     0     1     0
+     1     0     0     0
+
+
+serial_no =
+
+serial no 230
+
+
+one_dimentional_dop_code =
+
+     4     1     1     1     9
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     1     1     1     0     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'1,0'1,0'1,3'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     1     0     0
+     0     1     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 231
+
+
+one_dimentional_dop_code =
+
+     4     1     1     2     8
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     1     1     0     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'1,0'1,1'2,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     1     0     0
+     0     1     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 232
+
+
+one_dimentional_dop_code =
+
+     4     1     1     3     7
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     1     1     0     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'1,0'1,1'3,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     1     1     0
+     0     1     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 233
+
+
+one_dimentional_dop_code =
+
+     4     1     1     4     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     1     1     0     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'1,0'1,1'0,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     1     0     0
+     0     1     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 234
+
+
+one_dimentional_dop_code =
+
+     4     1     1     5     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     1     1     0     0     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'1,0'1,1'1,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     1     0     0
+     0     1     0     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 235
+
+
+one_dimentional_dop_code =
+
+     4     1     2     1     8
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     1     0     1     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'1,0'2,1'1,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     1     0     0
+     0     0     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 236
+
+
+one_dimentional_dop_code =
+
+     4     1     2     2     7
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     1     0     1     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'1,0'2,1'2,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     1     1     0
+     0     0     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 237
+
+
+one_dimentional_dop_code =
+
+     4     1     2     3     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     1     0     1     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'1,0'2,1'3,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     1     0     0
+     0     0     1     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 238
+
+
+one_dimentional_dop_code =
+
+     4     1     2     4     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     1     0     1     0     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'1,0'2,1'0,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     1     0     0
+     0     0     0     0
+     0     1     1     0
+
+
+serial_no =
+
+serial no 239
+
+
+one_dimentional_dop_code =
+
+     4     1     3     1     7
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     1     0     0     1     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'1,1'3,0'1,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     1     1     0
+     0     0     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 240
+
+
+one_dimentional_dop_code =
+
+     4     1     3     2     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     1     0     0     1     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'1,1'3,0'2,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     1     0     0
+     0     0     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 241
+
+
+one_dimentional_dop_code =
+
+     4     1     3     3     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     1     0     0     1     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'1,1'3,0'3,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     1     0     0
+     0     0     0     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 242
+
+
+one_dimentional_dop_code =
+
+     4     1     4     1     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     1     0     0     0     1     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'1,1'0,0'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     1     1     0
+     0     0     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 243
+
+
+one_dimentional_dop_code =
+
+     4     1     4     2     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     1     0     0     0     1     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'1,1'0,0'2,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     1     1     0
+     0     0     0     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 244
+
+
+one_dimentional_dop_code =
+
+     4     2     1     1     8
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     0     1     1     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'2,0'1,1'1,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     0     0     0
+     0     1     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 245
+
+
+one_dimentional_dop_code =
+
+     4     2     1     2     7
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     0     1     1     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'2,0'1,1'2,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     1     0
+     0     1     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 246
+
+
+one_dimentional_dop_code =
+
+     4     2     1     3     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     0     1     1     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'2,0'1,1'3,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     0     0
+     0     1     1     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 247
+
+
+one_dimentional_dop_code =
+
+     4     2     1     4     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     0     1     1     0     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'2,0'1,1'0,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     0     0
+     0     1     0     0
+     0     1     1     0
+
+
+serial_no =
+
+serial no 248
+
+
+one_dimentional_dop_code =
+
+     4     2     2     1     7
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     0     1     0     1     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'2,1'2,0'1,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     0     1     0
+     0     1     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 249
+
+
+one_dimentional_dop_code =
+
+     4     2     2     2     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     0     1     0     1     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'2,1'2,0'2,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     0     0     0
+     0     1     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 250
+
+
+one_dimentional_dop_code =
+
+     4     2     2     3     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     0     1     0     1     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'2,1'2,0'3,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     0     0     0
+     0     1     0     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 251
+
+
+one_dimentional_dop_code =
+
+     4     2     3     1     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     0     1     0     0     1     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'2,1'3,0'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     1     0
+     0     1     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 252
+
+
+one_dimentional_dop_code =
+
+     4     2     3     2     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     0     1     0     0     1     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'2,1'3,0'2,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     1     0
+     0     1     0     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 253
+
+
+one_dimentional_dop_code =
+
+     4     2     4     1     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     0     1     0     0     0     1     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'2,1'0,0'1,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     0     0
+     0     1     1     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 254
+
+
+one_dimentional_dop_code =
+
+     4     3     1     1     7
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     0     0     1     1     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'3,1'1,0'1,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     0     1     0
+     0     0     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 255
+
+
+one_dimentional_dop_code =
+
+     4     3     1     2     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     0     0     1     1     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'3,1'1,0'2,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     0     0     0
+     0     0     1     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 256
+
+
+one_dimentional_dop_code =
+
+     4     3     1     3     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     0     0     1     1     0     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'3,1'1,0'3,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     0     0     0
+     0     0     0     0
+     0     1     1     0
+
+
+serial_no =
+
+serial no 257
+
+
+one_dimentional_dop_code =
+
+     4     3     2     1     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     0     0     1     0     1     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'3,1'2,0'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     1     0
+     0     0     1     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 258
+
+
+one_dimentional_dop_code =
+
+     4     3     2     2     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     0     0     1     0     1     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'3,1'2,0'2,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     1     0
+     0     0     0     0
+     0     1     1     0
+
+
+serial_no =
+
+serial no 259
+
+
+one_dimentional_dop_code =
+
+     4     3     3     1     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     0     0     1     0     0     1     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,0'3,1'3,0'1,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     0     0
+     0     0     0     0
+     0     0     1     0
+     0     1     1     0
+
+
+serial_no =
+
+serial no 260
+
+
+one_dimentional_dop_code =
+
+     4     4     1     1     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     0     0     0     1     1     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,1'0,0'1,0'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     0     1     0
+     0     0     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 261
+
+
+one_dimentional_dop_code =
+
+     4     4     1     2     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     0     0     0     1     1     0     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,1'0,0'1,0'2,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     0     1     0
+     0     0     0     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 262
+
+
+one_dimentional_dop_code =
+
+     4     4     2     1     5
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     1     0     0     0     1     0     1     1     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'0,1'0,0'2,0'1,2'1]
+
+
+two_dimentional_binary_code =
+
+     1     1     1     0
+     0     0     0     0
+     0     0     1     0
+     0     0     1     0
+
+
+serial_no =
+
+serial no 263
+
+
+one_dimentional_dop_code =
+
+     5     1     1     1     8
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     0     1     1     1     1     0     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'1,0'1,0'1,1'1,2'0]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     1     0     0
+     0     1     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 264
+
+
+one_dimentional_dop_code =
+
+     5     1     1     2     7
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     0     1     1     1     0     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'1,0'1,0'1,1'2,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     1     0
+     0     1     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 265
+
+
+one_dimentional_dop_code =
+
+     5     1     1     3     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     0     1     1     1     0     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'1,0'1,0'1,1'3,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     0     0
+     0     1     1     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 266
+
+
+one_dimentional_dop_code =
+
+     5     1     2     1     7
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     0     1     1     0     1     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'1,0'1,1'2,0'1,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     1     1     0
+     0     1     0     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 267
+
+
+one_dimentional_dop_code =
+
+     5     1     2     2     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     0     1     1     0     1     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'1,0'1,1'2,0'2,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     1     0     0
+     0     1     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 268
+
+
+one_dimentional_dop_code =
+
+     5     1     3     1     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     0     1     1     0     0     1     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'1,0'1,1'3,0'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     1     0
+     0     1     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 269
+
+
+one_dimentional_dop_code =
+
+     5     2     1     1     7
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     0     1     0     1     1     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'1,0'2,1'1,0'1,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     1     1     0
+     0     0     0     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 270
+
+
+one_dimentional_dop_code =
+
+     5     2     1     2     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     0     1     0     1     1     0     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'1,0'2,1'1,0'2,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     1     0     0
+     0     0     1     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 271
+
+
+one_dimentional_dop_code =
+
+     5     2     2     1     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     0     1     0     1     0     1     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'1,0'2,1'2,0'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     0     0
+     0     1     1     0
+     0     0     1     0
+     0     1     0     0
+
+
+serial_no =
+
+serial no 272
+
+
+one_dimentional_dop_code =
+
+     5     3     1     1     6
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     0     1     0     0     1     1     1     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'1,1'3,0'1,0'1,2'2]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     1     1     0
+     0     0     1     0
+     0     0     0     0
+
+
+serial_no =
+
+serial no 273
+
+
+one_dimentional_dop_code =
+
+     6     1     1     1     7
+
+
+one_dimentional_binary_code =
+
+     1     0     0     0     0     0     1     1     1     1     0     0     0     0     0     0
+
+
+two_dimentional_dop_code =
+
+[1'2,0'1,1'1,0'1,2'3]
+
+
+two_dimentional_binary_code =
+
+     1     0     1     0
+     0     0     1     0
+     0     1     0     0
+     0     1     0     0
+
+
+no_of_codes_formed =
+
+   273
+
